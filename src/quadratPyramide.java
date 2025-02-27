@@ -1,5 +1,3 @@
-
-// Subclass for a pyramid with a square base
 class QuadratischePyramide extends pyramide {
     private double seitenlaenge; // Side length of the base
 
