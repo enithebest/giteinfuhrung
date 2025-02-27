@@ -7,8 +7,6 @@ abstract class pyramide {
     }
 
     public abstract double calcVolumen();
-
-    // Getter for height
     public double getHohe() {
         return hohe;
     }

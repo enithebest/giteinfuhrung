@@ -1,8 +1,8 @@
-class QuadratischePyramide extends pyramide {
+class quadratPyramide extends pyramide {
     private double seitenlaenge;
 
 
-    public QuadratischePyramide(double seitenlaenge, double hohe) {
+    public quadratPyramide(double seitenlaenge, double hohe) {
         super(hohe);
         this.seitenlaenge = seitenlaenge;
     }
